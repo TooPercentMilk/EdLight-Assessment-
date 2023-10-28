@@ -16,4 +16,4 @@ This task, image captioning, is a very well studied and documented overlap betwe
 - **Batch Size** Given my limited access to a GPU, I had some contraints with the batch size. I still wanted to have a fairly large batch size, as that would increase model performance. I settled on 32, which is small enough that my computer could run it, while not sacrificing too much accuracy.
 
 ## Evaluation
-For evaluation, I primarily used the BLEU benchmark scoring metric.
+For evaluation, I primarily used the BLEU metric for evaluation. 
